@@ -2,7 +2,7 @@
 
 ###What this project do :: 
 
-    This Project shows how to create dynamic views in android
+    This Project shows how to create gridView in android in a easiest way
 
 ![GridViewSimplest](https://github.com/devrath/DynamicViews/blob/master/snapshot.gif)
 
