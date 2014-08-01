@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- SET-BACKGROUND-FOR-COMPLETE-APP -->
+    <color name="app_background">#222222</color>
+        <color name="blue">#00aeef</color>
+        <color name="white">#FFFFFF</color>
+        
+
+</resources>
